@@ -1,0 +1,134 @@
+{
+  "SEGUNDAS": {
+    "records": 36965,
+    "quantity": 176476.0,
+    "identical_content_extra_rows": 74,
+    "min_date": "2026-01-02",
+    "max_date": "2026-09-30"
+  },
+  "Tipo de Segundas Costura": {
+    "records": 36965,
+    "quantity": 176476.0,
+    "identical_content_extra_rows": 74,
+    "min_date": "2026-01-02",
+    "max_date": "2026-09-30"
+  },
+  "COSTURA": {
+    "records": 25201,
+    "quantity": 4709719.0,
+    "identical_content_extra_rows": 1,
+    "min_date": "2026-01-02",
+    "max_date": "2026-09-30"
+  },
+  "MAQUILA": {
+    "records": 3631,
+    "quantity": 3990905.0,
+    "identical_content_extra_rows": 44,
+    "min_date": "2026-01-02",
+    "max_date": "2026-09-30"
+  },
+  "Segundas Crudo": {
+    "records": 92077,
+    "quantity": 611651.78,
+    "identical_content_extra_rows": 54,
+    "min_date": "2026-01-02",
+    "max_date": "2026-09-30"
+  },
+  "%Segundas": {
+    "records": 3237,
+    "quantity": 1000316.0,
+    "identical_content_extra_rows": 80,
+    "min_date": "2026-09-01",
+    "max_date": "2026-09-30"
+  },
+  "mirror_identical": true,
+  "monthly": {
+    "2026-01": {
+      "segundas": 18861.0,
+      "costura_all": 496890.0,
+      "costura_PRODUCCION": 477556.0,
+      "costura_2DAS3RAS": 19334.0,
+      "maquila_consumo": 456298.0,
+      "maquila_invent": 457022.0
+    },
+    "2026-02": {
+      "segundas": 19298.0,
+      "costura_all": 445869.0,
+      "costura_2DAS3RAS": 19012.0,
+      "costura_PRODUCCION": 426857.0,
+      "maquila_consumo": 364268.0,
+      "maquila_invent": 364882.0
+    },
+    "2026-03": {
+      "segundas": 18543.0,
+      "costura_all": 600277.0,
+      "costura_2DAS3RAS": 19263.0,
+      "costura_PRODUCCION": 581014.0,
+      "maquila_consumo": 360955.0,
+      "maquila_invent": 361514.0
+    },
+    "2026-04": {
+      "segundas": 16768.0,
+      "costura_all": 449654.0,
+      "costura_PRODUCCION": 432244.0,
+      "costura_2DAS3RAS": 17410.0,
+      "maquila_consumo": 316703.0,
+      "maquila_invent": 317060.0
+    },
+    "2026-05": {
+      "segundas": 18898.0,
+      "costura_all": 493038.0,
+      "costura_2DAS3RAS": 20598.0,
+      "costura_PRODUCCION": 472440.0,
+      "maquila_consumo": 287558.0,
+      "maquila_invent": 287978.0
+    },
+    "2026-06": {
+      "segundas": 17035.0,
+      "costura_all": 576432.0,
+      "costura_2DAS3RAS": 22377.0,
+      "costura_PRODUCCION": 554055.0,
+      "maquila_consumo": 522058.0,
+      "maquila_invent": 522634.0
+    },
+    "2026-07": {
+      "segundas": 17358.0,
+      "costura_all": 518921.0,
+      "costura_2DAS3RAS": 23557.0,
+      "costura_PRODUCCION": 495364.0,
+      "maquila_consumo": 651305.0,
+      "maquila_invent": 652307.0
+    },
+    "2026-08": {
+      "segundas": 23029.0,
+      "costura_all": 621322.0,
+      "costura_2DAS3RAS": 24163.0,
+      "costura_PRODUCCION": 597159.0,
+      "maquila_consumo": 533635.0,
+      "maquila_invent": 534508.0
+    },
+    "2026-09": {
+      "segundas": 26686.0,
+      "costura_all": 507316.0,
+      "costura_PRODUCCION": 484833.0,
+      "costura_2DAS3RAS": 22483.0,
+      "maquila_consumo": 489496.0,
+      "maquila_invent": 493000.0,
+      "excel_production": 1000316.0
+    }
+  },
+  "reconciliation": {
+    "month": "2026-09",
+    "production_excel": 1000316,
+    "seconds_excel": 26686,
+    "rate_excel": 0.02667756988791542,
+    "production_raw": 1000316.0,
+    "dimension_groups_different": 0,
+    "difference_examples": []
+  },
+  "source": {
+    "name": "Segundas 2026.xlsx",
+    "sha256": "dbfa1bc1ef0167b97f67c6b29c8569a285d7170cea0eea94b402cf3c4228ef8e",
+    "bytes": 26967855
+  }
+}
